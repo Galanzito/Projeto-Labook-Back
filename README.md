@@ -9,7 +9,7 @@
 ## Labenu | Full-Stack Web Development Bootcamp
 Desenvolvimento de aplicações completas, incluindo frontend Web com React e backend com Node.js.
 [![Screenshot_1](https://raw.githubusercontent.com/danilomourelle/Whats4/master/Lbn.png)](https://www.labenu.com.br/)
-# Projeto-FutureEats
+# Projeto-Labook - Back-end
 <br>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/galanzito/projeto-labook-back">
