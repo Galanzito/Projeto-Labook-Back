@@ -40,3 +40,23 @@ O LaBook será uma rede social com o objetivo de promover a conexão e interaç�
 * Git
 * Node.js
 * Postman
+
+### Como rodar a aplicação :arrow_forward:
+No terminal, clone o projeto: 
+```
+git clone https://github.com/Galanzito/Projeto-Labook-Back.git
+```
+Navegue para dentro da raiz do projeto
+```
+cd 
+```
+Instale as dependências
+```
+npm i
+```
+Execute a aplicação
+```
+npm start
+```
+No terminal aparecerá a porta que o projeto está rodando
+
