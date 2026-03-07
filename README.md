@@ -1,11 +1,5 @@
 > Status do Projeto: Concluido :heavy_check_mark:
 
-**Canais de comunicação**:
-- [Linkedin](www.linkedin.com/in/guilherme-galan)
-- [Github](https://github.com/galanzito)
-- <contato@guigalan.com.br>
-
-
 ## Labenu | Full-Stack Web Development Bootcamp
 Desenvolvimento de aplicações completas, incluindo frontend Web com React e backend com Node.js.
 [![Screenshot_1](https://raw.githubusercontent.com/danilomourelle/Whats4/master/Lbn.png)](https://www.labenu.com.br/)
